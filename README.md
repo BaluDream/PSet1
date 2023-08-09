@@ -24,7 +24,7 @@ In main.py, implement a program that prompts the user for the answer to the Grea
   2. It’s okay if your output or the user’s wraps onto multiple lines.
      
 ## Demo
-  ![Alt Text](url)
+  ![Alt Text](deep-screenshot.png)
 
 ## How to test
 
